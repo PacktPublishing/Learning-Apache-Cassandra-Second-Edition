@@ -1,0 +1,2 @@
+ASSUME home_status_updates VALIDATOR AS utf8;
+LIST home_status_updates;
