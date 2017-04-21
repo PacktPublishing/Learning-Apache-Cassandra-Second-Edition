@@ -22,6 +22,7 @@ You will need the following software to work with the examples in this book:
 * Java Runtime Environment 8.0 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * Apache Cassandra 3.X (http://cassandra.apache.org/download/)
 * Java IDE (IntelliJ or Eclipse) to edit, compile, and run Java code
+
 Further instructions on installing these are presented in the upcoming chapters of the book.
 
 ## Related Products
